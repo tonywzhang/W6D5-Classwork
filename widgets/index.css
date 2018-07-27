@@ -1,0 +1,27 @@
+.clock {
+  font-family: 'Gloria Hallelujah', cursive;
+  color: white;
+  text-shadow: 3px 3px black;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 500px;
+  height: 250px;
+  padding: 50;
+  border-radius: 10px;
+  border: 1px solid black;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-image: url("https://media.giphy.com/media/TRmEQcrt2lxRe/giphy.gif");
+  background-size: cover;
+}
+.clockTitle{
+  margin: 0 auto;
+}
+.time {
+  margin: 0 auto;
+}
+
+.date{
+  margin: 0 auto;
+}
